@@ -1,0 +1,12 @@
+{
+  "docs": {
+    "Governance App" : [],
+    "How the solution will be used?" : [],
+    "tech" : [],
+    "Getting Started": ["doc1"],
+    "Governance UI": ["doc2"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
